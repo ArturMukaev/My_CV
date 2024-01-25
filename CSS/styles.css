@@ -41,12 +41,12 @@ html {
 }
 
 body {
-    width: 880px;
-    margin: 20px auto   ;
-    padding: 10px;
-    background-color: rgb(255,255,255);
-    border: 3px solid rgb(75,75,75);
-    box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(75, 75, 75);
+    box-shadow: 0 0 15px 5px rgba(44, 82, 100, .75);
 }
 
 header {
@@ -113,6 +113,7 @@ main {
     gap: 15px;
     padding: 10px;
 }
+
 .main_part {
     display: grid;
     grid-template-rows: auto auto auto;
@@ -163,15 +164,15 @@ main {
 }
 
 
-
 .Contact {
     padding-top: 10px;
     font-size: 0.9em;
     width: 10%;
     float: right;
 }
+
 .picture {
-    width: 160px;
-    height: 170px;
+    width: 142px;
+    height: 200px;
     border-radius: 20px;
 }
